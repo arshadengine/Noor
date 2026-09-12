@@ -1,9 +1,31 @@
+---
+title: Noor AI Companion
+emoji: 🧠
+colorFrom: purple
+colorTo: indigo
+sdk: gradio
+sdk_version: 6.16.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # Noor — Personal AI Companion
 ## Phase 1: Foundation Layer
 
 ```
 ✨ Local-first • No API keys • Always on
 ```
+
+---
+
+## 🌐 1-Click Cloud Hosting
+
+You can host Noor 24/7 in the cloud:
+
+- **Hugging Face Spaces**: [Deploy to Hugging Face Spaces](https://huggingface.co/new-space?repository_url=https://github.com/arshadengine/Noor)
+- **Render**: Connect repository `arshadengine/Noor` on [Render Dashboard](https://dashboard.render.com/) with build command `pip install -r requirements.txt` and start command `python app.py`.
+- **Docker**: Build and run anywhere with `docker build -t noor . && docker run -p 7860:7860 noor`.
 
 ---
 

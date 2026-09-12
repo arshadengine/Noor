@@ -38,3 +38,6 @@ venv/
 .venv/
 env/
 
+# Tools & binaries
+.tools/
+
